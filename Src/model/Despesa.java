@@ -1,5 +1,7 @@
 package model;
 
+public package model;
+
 import java.time.LocalDate;
 
 public class Despesa extends Movimentacao {
@@ -12,4 +14,6 @@ public class Despesa extends Movimentacao {
     public double calcularImpacto() {
         return -getValor();
     }
+} {
+    
 }
