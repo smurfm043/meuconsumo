@@ -1,11 +1,11 @@
-# MeuConsumo 💰
+# MeuConsumo 
 
 Sistema simples de controle financeiro pessoal.
 
 ## Problema
 Ajudar usuários a controlar gastos e evitar endividamento.
 
-## 👥 Público
+## Público
 Jovens, adultos, estudantes e famílias.
 
 ## Estrutura
