@@ -1,23 +1,23 @@
-# MeuConsumo 💰
+# MeuConsumo
 
 Sistema simples de controle financeiro pessoal.
 
-## 📌 Problema
+## Problema
 Ajudar usuários a controlar gastos e evitar endividamento.
 
-## 👥 Público
+## Público
 Jovens, adultos, estudantes e famílias.
 
-## 🧱 Estrutura
+## Estrutura
 - model → classes principais
 - service → regras de negócio
 - view → execução do sistema
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro de usuário
 - Registro de receitas e despesas
 - Cálculo de saldo
 
-## 🚀 Tecnologias
+## Tecnologias
 - Java
 - Programação Orientada a Objetos
